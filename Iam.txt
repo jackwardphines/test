@@ -5,3 +5,5 @@ This code was hosted at http://cvassignment.ml
 
 Amazon aws
 Django server 
+
+Done with changes
