@@ -4,6 +4,11 @@ CV:
 
 
 
+Amazon aws
+Django server 
+
+Done with changes
+
 final change
 
 This code was hosted at http://cvassignment.ml
